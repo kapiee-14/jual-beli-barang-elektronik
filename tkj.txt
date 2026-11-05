@@ -1,0 +1,126 @@
+Jika saya menjadi administrator sebuah website jual beli barang elektronik, saya akan bertanggung jawab mengelola, mengawasi, dan memastikan seluruh aktivitas website berjalan dengan baik, aman, dan nyaman bagi pengguna.																									
+																									
+1. Mengelola Produk																									
+																									
+Menambahkan produk elektronik seperti HP, laptop, komputer, dan televisi.																									
+																									
+Mengedit nama, harga, stok, dan deskripsi produk.																									
+																									
+Menghapus produk yang sudah tidak tersedia.																									
+																									
+Mengunggah foto produk.																									
+																									
+"2. Mengelola Pengguna
+- Mengelola akun pembeli dan penjual.
+- Memverifikasi akun pengguna.
+- Menangani laporan atau keluhan pengguna.
+- Memblokir akun yang melakukan pelanggaran."																									
+																									
+3. Mengelola Transaksi																									
+																									
+Memantau pesanan pembeli.																									
+																									
+Memeriksa status pembayaran.																									
+																									
+Mengelola status pengiriman.																									
+																									
+Memastikan transaksi berjalan dengan baik.																									
+																									
+4. Mengelola Dashboard Admin																									
+																									
+Dashboard administrator memiliki beberapa fitur:																									
+																									
+Total produk.																									
+																									
+Total pengguna.																									
+																									
+Total transaksi.																									
+																									
+Total pendapatan.																									
+																									
+Daftar pesanan terbaru.																									
+																									
+Laporan penjualan.																									
+																									
+5. Keamanan Website																									
+																									
+Melindungi data pengguna.																									
+																									
+Mengatur hak akses admin.																									
+																									
+Mencegah penipuan.																									
+																									
+Melakukan pencadangan data.																									
+																									
+PROMPT 2																									
+																									
+TEKNOLOGI 	KEGUNAAN																								
+HTML	STRUKTUR WEBSITE																								
+CSS	DESAIN TAMPILAN 																								
+JAVA SCRIPT	INTERAKSI WEBSITE																								
+PHP	SISTEM BACKEND																								
+MY SQL	DATA BASE																								
+XAMPP	SERVER LOKAL																								
+Jika saya menjadi administrator sebuah website jual beli barang elektronik, saya akan bertanggung jawab mengelola, mengawasi, dan memastikan seluruh aktivitas website berjalan dengan baik, aman, dan nyaman bagi pengguna.																									
+																									
+1. Mengelola Produk																									
+																									
+Menambahkan produk elektronik seperti HP, laptop, komputer, dan televisi.																									
+																									
+Mengedit nama, harga, stok, dan deskripsi produk.																									
+																									
+Menghapus produk yang sudah tidak tersedia.																									
+																									
+Mengunggah foto produk.																									
+																									
+"2. Mengelola Pengguna
+- Mengelola akun pembeli dan penjual.
+- Memverifikasi akun pengguna.
+- Menangani laporan atau keluhan pengguna.
+- Memblokir akun yang melakukan pelanggaran."																									
+																									
+3. Mengelola Transaksi																									
+																									
+Memantau pesanan pembeli.																									
+																									
+Memeriksa status pembayaran.																									
+																									
+Mengelola status pengiriman.																									
+																									
+Memastikan transaksi berjalan dengan baik.																									
+																									
+4. Mengelola Dashboard Admin																									
+																									
+Dashboard administrator memiliki beberapa fitur:																									
+																									
+Total produk.																									
+																									
+Total pengguna.																									
+																									
+Total transaksi.																									
+																									
+Total pendapatan.																									
+																									
+Daftar pesanan terbaru.																									
+																									
+Laporan penjualan.																									
+																									
+5. Keamanan Website																									
+																									
+Melindungi data pengguna.																									
+																									
+Mengatur hak akses admin.																									
+																									
+Mencegah penipuan.																									
+																									
+Melakukan pencadangan data.																									
+																									
+PROMPT 2																									
+																									
+TEKNOLOGI 	KEGUNAAN																								
+HTML	STRUKTUR WEBSITE																								
+CSS	DESAIN TAMPILAN 																								
+JAVA SCRIPT	INTERAKSI WEBSITE																								
+PHP	SISTEM BACKEND																								
+MY SQL	DATA BASE																								
+XAMPP	SERVER LOKAL																								
